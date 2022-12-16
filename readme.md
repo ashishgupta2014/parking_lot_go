@@ -1,6 +1,6 @@
 ## Parking Lot
 
-A python Parking Lot solution.
+A Go Lang Parking Lot solution.
 
 
 ## Problem Statement
